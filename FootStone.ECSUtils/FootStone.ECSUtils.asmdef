@@ -1,0 +1,12 @@
+{
+  "name": "FootStone.ECSUtils",
+  "references": [
+    "Unity.Collections",
+    "Unity.Mathematics",
+    "Unity.Mathematics.Extensions"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true
+}
