@@ -1,4 +1,4 @@
-﻿namespace Assets.Scripts.ECS
+﻿namespace FootStone.ECS
 {
     public struct TickStateDenseBuffer<T> where T : struct
     {
